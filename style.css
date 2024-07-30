@@ -1,29 +1,29 @@
-
 h1{
     color: red;
     text-align: center;
 }
 h2{
     color: blueviolet;
+    text-align: center;
 }
-
 h3{
     color: goldenrod;
 }
-
 .text-cent{
     text-align: center;
 }
-
-#links{
-    text-align: center;
-}
-
-#ulist{
-    padding-left: 715px;
-}
-
 img{
     max-width: 240px;
     max-height: 240px;
+}
+.center{
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fit{
+    max-width: fit-content;
+}
+body{
+    background-color: antiquewhite;
 }
